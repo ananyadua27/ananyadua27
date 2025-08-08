@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there 👋
 
 I'm a developing software engineer interested in building production-grade tools, ML pipelines, and scalable infrastructure. I love turning complex ideas into clean & usable products, and I'm always learning something new.
 
